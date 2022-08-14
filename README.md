@@ -1,2 +1,2 @@
 # Dice_Simulator
-Using if else in python.
+Virtual dice roller. Using if else in python.
